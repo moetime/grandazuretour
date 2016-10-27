@@ -1,0 +1,14 @@
+{
+  "name": "azuretest100",
+  "version": "0.0.0",
+  "description": "azuretest100",
+  "main": "app.js",
+  "author": {
+    "name": "Morrice"
+  },
+  "dependencies": {
+    "express": "3.4.4",
+    "jade": "*",
+    "stylus": "*"
+  }
+}
