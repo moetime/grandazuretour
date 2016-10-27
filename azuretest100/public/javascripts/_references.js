@@ -7,3 +7,4 @@
 /// <reference path="modernizr-2.6.2.js" />
 /// <reference path="respond.js" />
 /// <reference path="../../routes/index.js" />
+/// <reference path="../../server.js" />
